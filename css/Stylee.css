@@ -1,0 +1,50 @@
+
+
+/* Global Style
+-------------------------------------- */
+
+.backgroundwithColor{
+    background-color: black;
+    background-color: #000000;/*(00)->(ff) red -- (00)green --(00)blue   */
+    background-color: rgb(0,0, 0);/*(0)->(256)red -- (0)green --(0)blue   */
+}
+.newstuff{
+    background-image:url(https://miro.medium.com/max/875/1*_F1WgdEEvkA2ew9A5IOWsQ.png) ;
+    background-size:100%,  contain ,cover ;
+    /*contain:make sure that the height and width of backgroun image are in
+     accordacne with the height nd width of content.And image fits inside the content area*/
+    background-repeat: no-repeat;
+    background-repeat: repeat;
+    /*Repeat specifies that the image os allowed to be repeated
+     to fill the content area and no-repeat specifies it is not  */
+}
+
+/* Home
+-------------------------------------- */
+.textalign{
+    text-align: justify;}
+    p .cotainer{
+        background-color: #000000;
+    }
+.cotainer {
+    background:linear-gradient(to bottom right,#98a390 ,#98a390 );
+
+    @media min-height(720px)
+}
+
+
+/* Contact Us
+-------------------------------------- */
+
+
+
+
+
+/* Global Style
+-------------------------------------- */
+
+
+
+
+/* Contact Info
+-------------------------------------- */
