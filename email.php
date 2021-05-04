@@ -1,5 +1,6 @@
  
 <?php
+$test_git_branches;
 if(!$_POST) exit;
 
 $email = $_POST['email'];
