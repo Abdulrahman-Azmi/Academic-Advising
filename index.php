@@ -166,7 +166,7 @@
 
 
 <footer>
-    <p>Copyright 2021 ©</p>
+    <p>Copyright 2021 © All rights reserved.</p>
     <hr>
     <p  >Academic Advising</p>
 </footer>
