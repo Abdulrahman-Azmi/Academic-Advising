@@ -1,0 +1,150 @@
+---
+title: "Academic Advising"
+author: "Reka Solymosi"
+date: "18 September 2016"
+logo: uomLogo.png
+output:
+  html_document:
+  includes:
+      in_header: logo.html
+---
+<img src="uomLogo.png" alt="logo" height="100" width="150" style="position:absolute;top:10px;right:10px;" />
+
+<!-- Wat do
+
+- http://www.humanities.manchester.ac.uk/tandl/resources/personalisedlearning/academicadvising/supporting/ -->
+
+I've compiled some usefull information for adacemic advisees here. Please let me know if any links are broken, or you think anything else should be included here. 
+
+##Course details
+
+- BA Criminology:  you can find course details [here](http://www.manchester.ac.uk/study/undergraduate/courses/2017/07052/ba-criminology/course-details/#course-profile)
+<!-- - BASS Criminology & Quantitative Methods: you can find course details [here](http://www.manchester.ac.uk/study/undergraduate/courses/2017/09769/bass-criminology-and-quantitative-methods/course-details/#course-profile)
+- LLB Law with Criminology: you can find course details [here](http://www.manchester.ac.uk/study/undergraduate/courses/2017/09673/llb-law-with-criminology/course-details/#course-profile) -->
+
+##Resources for students
+- [Societies in the Law school](http://www.law.manchester.ac.uk/study/discover/enrich/societies/)
+- [Seminars and events at the law school](http://www.law.manchester.ac.uk/connect/events/)
+- [Study abroad](http://www.law.manchester.ac.uk/study/discover/enrich/study-abroad/)
+- [Q-step centre](http://www.humanities.manchester.ac.uk/q-step/about-q-step/)
+    - [Upcoming events](http://www.humanities.manchester.ac.uk/q-step/connect/events/)
+- [Workshops to support learning](http://www.library.manchester.ac.uk/using-the-library/students/training-and-skills-support/my-learning-essentials/workshops/)
+- [Online resources to support learning](http://www.library.manchester.ac.uk/using-the-library/students/training-and-skills-support/my-learning-essentials/online-resources/) 
+- [School of Law English language course](http://courseunits.humanities.manchester.ac.uk/Undergraduate/LAWS10000/Display)
+- [Peer mentoring](http://www.peersupport.manchester.ac.uk/what-is-peer-support/what-is-peer-mentoring/)
+- [Volunteering opportunities](http://www.volunteers.manchester.ac.uk/)
+- [Using the library](http://www.library.manchester.ac.uk/using-the-library/students/initiatives/get-started/)
+- Plagiarism and academic malpractice:
+    - [Guidelines](http://documents.manchester.ac.uk/display.aspx?DocID=2870)
+    - The University of Manchester Library online resources [Library online resources](http://www.library.manchester.ac.uk/services-and-support/students/support-for-your-studies/my-learning-essentials) has modules to help avoid plagiarism such as: 'Original thinking allowed: avoiding plagiarism'; 'Citing it right: introducing referencing'; and 'Making referencing easy: introducing EndNote online'
+
+##Project management:
+
+- [Setting SMART goals](https://www.projectsmart.co.uk/smart-goals.php) 
+- Using a Gantt chart for time management: 
+    - [Video tutorial 1](https://www.youtube.com/watch?v=rm_iWKoOd0U)
+    - [Video tutorial 2](https://www.youtube.com/watch?v=ADK58IRPKh8)
+- Using Kanban for organising workflow:
+    - [What is Kanban](https://www.youtube.com/watch?v=ZYzRHH-fdf8)
+    - [How to build one](https://www.youtube.com/watch?v=WQaomFkL5jg)
+
+##Student Frequently Asked Questions
+
+###What is my Academic Adviser’s role?
+
+- To hold weekly drop-in sessions (‘office hours’)
+- To organise at least two meetings per year (three for 1st years)
+- To make regular email contact (at least three times per semester) to check students are OK or follow-up any specific academic issues (e.g. poor attendance)
+- To reply promptly to student emails (normally within a maximum of 48 hours, excluding weekends)
+- To write student references when requested.
+
+###What is NOT my Academic Adviser’s role?
+
+- To provide detailed advice about individual course units: such queries should always be directed to the course unit convenor or class tutors;
+
+- To provide medical or welfare support: Academic Advisers will provide a listening ear and will supply contact details for professional support services where necessary;  The Student Support Co-ordinator (SSC) takes a lead in providing pastoral support to students (who can contact him directly or be referred via their Academic Adviser). The current SSC is Ian Glassey who is based in the TSSO.
+
+- To provide extensions to coursework deadlines: if you think you are in danger of missing a deadline, please refer to the mitigating circumstances procedures available on the teaching and learning support office page:  (http://www.tlso.manchester.ac.uk/map/teachinglearningassessment/assessment/sectionc-reachingdecisionsfromassessment/policyonmitigatingcircumstances/policyonmitigatingcircumstances-policy/
+).
+
+###Will I keep the same Academic Adviser throughout my studies?
+
+- You will normally keep the same Academic Adviser throughout your studies but if they are on study leave at any point during your time at Manchester then they will hand over temporary responsibility to a colleague.
+
+###Can I change my Academic Adviser?
+
+- It is important that you feel comfortable and confident in your dealings with your Academic Adviser and there may be circumstances in which it is appropriate to request a change.  There is a Senior Academic Adviser (SAA) in each subject area, and if such circumstances arise, you should discuss the matter with them. The SAA for the School of Law is Caroline Hoyle (Caroline.Hoyle@manchester.ac.uk)
+
+###When will I meet my Academic Adviser?
+
+- There are 2 scheduled meetings (3 for 1st years)
+- You can attend office hours at any time during the year.
+
+###How do I arrange additional meetings with my Academic Adviser?
+
+- Your Academic Adviser is available to meet with you as reasonably requested. You can either drop in during their office hours or you can e-mail your Academic Adviser to arrange an appointment. Please note that although they will try to respond to your e-mail as soon as they are able, in addition to teaching, academics have research and admin duties, and they should respond within 48 hours as a general rule.
+
+###How do I find out the name of my Academic Adviser or their room number?
+
+- You should be able to see the name of your Academic Adviser when you log on to the Peoplesoft/Campus Solutions student record system via the Student Portal (www.manchester.ac.uk/portal).
+
+###Where else can I go for advice?
+
+- **Student Support Co-ordinator**
+    - The Student Support Co-ordinator (SSC) takes a lead in providing pastoral support to students (who can contact him directly or be referred via their Academic Adviser). The current SSC is Ian Glassey who is based in the TSSO (I.Glassey@manchester.ac.uk).
+
+- **The Student Services Centre**
+    - The SSC is a single point of contact for most of the administrative tasks that need to be carried out by students, including registration/fees, and documentation.  The SSC is open Monday to Friday, 9.00-18.00 on 0161 275 5000 or students can visit the Centre on Burlington Street, near the library.  Students can also visit the online services of the SSC by clicking the 'SSC Portal' link to the left of the [Student Services Centre web page](http://www.campus.manchester.ac.uk/ssc/)  (although these pages are under review) and the [Crucial Guide live](http://www.studentnet.manchester.ac.uk/crucial-guide/).
+    
+- **Central Academic Advisory Service**
+    - Student Advice and Information Hub, First Floor, University Place, Oxford Road
+    - Telephone (0161) 275 3033
+    - [Web](http://www.campus.manchester.ac.uk/academicadvisoryservice/)
+    - The University of Manchester Central Academic Advisory Service is a service of information and advice open to all University of Manchester students, who can use the service at any time.  The advisers have extensive experience of dealing with student problems and offer confidential advice on any matters relating to students' academic work.
+
+- **Counselling Service**
+    - Crawford House, Precinct Centre
+    - Telephone (0161) 275 2864
+    - Web:  http://www.campus.manchester.ac.uk/counselling/
+    - The Counselling Service for the University offers confidential, individual counselling to both undergraduate and postgraduate students, and a consultative and advisory service to staff.  The seven members of the team have qualifications in counselling and psychotherapy and provide a range of therapeutic responses to all kinds of personal problems.
+    
+- **Student Health Service**
+    - Note that you must register to use this service.
+    - Waterloo Place, Oxford Road, near the University Precinct Centre
+    - Telephone (0161) 275 2858
+    - For primary health care, students need to register with an NHS general practitioner, and should locate one near their term-time residence. The Student Health Service for the University provides an accessible occupational health service for all students.  A doctor and nursing staff offer advice and support on any health problem affecting studies.  The service accepts referrals from academic disciplines and from other welfare services.  A wide range of health promotion, vaccination, and contraceptive services are also offered.
+    
+- **Office of Student Support and Services webpage:**
+    - http://www.campus.manchester.ac.uk/studentexperience/a2z.htm
+    
+- **Disability Support Office**
+    - Block 2, 2nd Floor, University Place, Oxford Road
+    - Telephone (0161) 275 7512/8518
+    - Web:    http://www.campus.manchester.ac.uk/disability/
+    - The Disability Support Office exists to help all students who have a disability of any kind, including mental health problems. It will provide students with practical support and guidance, assist them in making use of technological aids and, with their consent, inform disciplines where special provisions need to be made for them.
+
+- **Careers Service**
+    - Crawford House, Precinct Centre, Booth Street East
+    - Telephone (0161) 275 2828
+    - Web: http://www.careers.manchester.ac.uk/
+    - The University Careers Service is open between 09.00 and 17.00, Monday to Friday, throughout the year.
+
+- **School of Law Careers Service**
+    - Web: http://www.law.manchester.ac.uk/study/undergraduate/employability/
+          - [Careers in Law](http://documents.manchester.ac.uk/display.aspx?DocID=22668)
+          - [Non-law careers](http://documents.manchester.ac.uk/display.aspx?DocID=22669)
+          - [Criminology](http://documents.manchester.ac.uk/display.aspx?DocID=22658%20)
+    
+###Recommended task: 
+If you're free, register and attend one of these two sessions: 
+
+- [Discover your approach to learning](http://www.library.manchester.ac.uk/using-the-library/students/training-and-skills-support/my-learning-essentials/workshops/details/?event=2176) Thu 28 Sep 2017, 15:00 - 16:30 in the AGLC Training Room (-104)(in the Library)
+
+- [Developing resilience for student life](http://www.library.manchester.ac.uk/using-the-library/students/training-and-skills-support/my-learning-essentials/workshops/details/?event=2112). Fri 20 Oct 2017, 13:00 - 14:30 in the AGLC Training Room (-104) (in the Library)
+
+
+
+
+______________________________________________________    
+####References
+This document was created from a mashup of the [Faculty of Humanities Teaching & Learning Office Mechanisms for supporting and monitoring Advisors](http://www.humanities.manchester.ac.uk/tandl/resources/personalisedlearning/academicadvising/supporting/) and the School of Law *'Academic support and advising: outline of a new approach'* document, and the helpful feedback from School of Law colleagues. 
